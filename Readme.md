@@ -2,6 +2,6 @@ This repository provides teaching materials for the "Mass Transport in Tissue En
 
 The introductory notebooks in this repository are based on the "Lectures on scientific computing with Python" repository but have been modified to be compatible with Python 3. Additionally, there is a transient example obtained from a separate source.
 
-Please note that an updated version of this repository for the fall 2021 semester is available [here](https://github.com/mbarzegary/mass-transport-tissue-engineering-fall2021).
+Please note that an updated version of this repository for the fall 2023 semester is available [here](https://github.com/mbarzegary/mass-transport-tissue-engineering-fall2021).
 
 For further information, you can watch the recorded hands-on session on YouTube, which is linked in the repository.
